@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @ndegi
-- 👀 I’m interested in ...networks
-- 🌱 I’m currently learning ...bbit
-- 💞️ I’m looking to collaborate on ...networks
-- 📫 How to reach me ...hacking
+- software engineer
 
 <!---
 ndegi/ndegi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
